@@ -1,4 +1,4 @@
-# Stock Forecasting unig Python
+# Stock Forecasting using Python
 
 Personal learning project focused on forecasting stock prices using classical and modern ML techniques.
 
