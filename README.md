@@ -6,4 +6,4 @@ Personal learning project focused on forecasting stock prices using classical an
 
 ## Project Overview
 
-etc.etc.etc.# stock-forecasting
+etc.etc.etc.
