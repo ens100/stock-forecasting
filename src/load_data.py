@@ -1,5 +1,7 @@
 import yfinance as yf
 
-data = yf.download("AAPL", start="2010-01-01", end="2025-04-30")
+data = yf.download("TSLA", start="2010-01-01")
 
-data.to_csv("../../data/aapl.csv")
+data.columns = data.columns.get_level_values(0)
+
+data.to_csv("data/tsla.csv")
